@@ -1,5 +1,5 @@
 var = 1
 
-var += 3
+var += 10
 
 print(var)
